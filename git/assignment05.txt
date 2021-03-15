@@ -1,0 +1,17 @@
+anup@sahoo git % history
+  426  git branch hotfix
+  427  touch urgent.txt
+  428  git add urgent.txt
+  429  vi urgent.txt
+  430  vi urgent.txt
+  431  git status
+  432  git commit -m "hotfix"
+  433  git push origin hotfix
+  434  git checkout main
+  435  git push
+  436  git pull
+  437  git merge hotfix
+  438  ls
+  439  history
+  440  git branch
+  441  touch assignment05.txt
