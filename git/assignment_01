@@ -1,0 +1,16 @@
+  270  touch output.txt
+  271  git status
+  272  git add *txt
+  273  git status
+  274  git commit -m "Initial Commit"
+  275  git push origin master
+  276  ls
+  277  git push
+  278  ls
+  279  git status
+  280  git add jenkin.pem
+  281  git status
+  282  git commit -m "Initial Commit"
+  283  git push
+  284  git history
+  285  histry
