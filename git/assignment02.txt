@@ -1,0 +1,17 @@
+anup@sahoo git % history
+  317  git checkout feature1
+  318  touch new.txt
+  319  git add new.txt
+  320  git commit -m "feature1_new"
+  321  git checkout develop
+  322  git stash apply
+  323  git commit -m "unstash and commit"
+  324  git history
+  325  history
+  326  git push
+  327  git push origin develop
+  328  git branch
+  329  git checkout feature1
+  330  git status
+  331  git push origin feature1
+  332  git push origin feature2
