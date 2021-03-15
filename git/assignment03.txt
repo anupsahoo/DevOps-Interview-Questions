@@ -1,0 +1,33 @@
+anup@sahoo git % history
+  376  git push origin f1
+  377  git push origin f2
+  378  touch f2.txt
+  379  git add f1.txt
+  380  git add f2.txt
+  381  git commit -m "updated f2.txt"
+  382  git push origin f2
+  383  git status
+  384  git checkut main
+  385  git checkout main
+  386  git statu
+  387  git status
+  388  git branch
+  389  git branch f1
+  390  git branch -D f1
+anup@sahoo git % history               
+  379  git add f1.txt
+  380  git add f2.txt
+  381  git commit -m "updated f2.txt"
+  382  git push origin f2
+  383  git status
+  384  git checkut main
+  385  git checkout main
+  386  git statu
+  387  git status
+  388  git branch
+  389  git branch f1
+  390  git branch -D f1
+  391  histroy
+  392  history
+  393  touch assignment03.txt
+  394  vi assignment03.txt  391  histroy
